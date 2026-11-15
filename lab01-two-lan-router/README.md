@@ -22,3 +22,12 @@ A PC was using the router's IP address, which caused a duplicate address conflic
 
 ## Tools
 Cisco Packet Tracer
+## Topology
+![Topology](Screenshot%20(275).png)
+
+## Ping Test
+![Ping test](Screenshot%20(276).png)
+
+## Router Configuration
+![Router config 1](Screenshot%20(277).png)
+![Router config 2](Screenshot%20(278).png)
